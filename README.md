@@ -4,7 +4,7 @@
 - 🔭 I’m working as a **Software Engineer** and **Frontend & Backend Junior-Devloper**
 - 📗 I’m currently learning **Django** & **Typescript**
 
-# 🛠️ Languages I use :
+# 🛠️ Languages & tools i use :
 # -Python 
 # -Django
 # -JavaScript
