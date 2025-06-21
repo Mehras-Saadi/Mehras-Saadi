@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehras-saadi&label=Profile%20views&color=0e75b6&style=flat" alt="mehras-saadi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehras-saadi" alt="mehras-saadi" /></a> </p>
+
 -  I’m currently learning **DevOps fundamentals | Linux | Docker | Git | Deployment strategies**
 
 -  I’m looking to collaborate on Small automation tools with Python or Wor **(coming soon)**
