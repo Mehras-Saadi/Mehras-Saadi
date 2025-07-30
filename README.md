@@ -1,9 +1,7 @@
 
 
-<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran :heart: .
+<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran :heart:</h1>
 
-
-.</h1>
 <p align="center"><strong>DevOps-focused developer from Iran | Python scripting & WordPress projects</strong></p>
 
 ---
