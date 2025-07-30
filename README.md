@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" width="20">.</h1>
+<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" width="30">.</h1>
 <p align="center"><strong>DevOps-focused developer from Iran | Python scripting & WordPress projects</strong></p>
 
 ---
@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" width="361" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" width="361" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Mehras-Saadi&show_icons=true&theme=tokyonight" height="145" />
 </p>
 
