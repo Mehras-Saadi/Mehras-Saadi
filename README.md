@@ -10,11 +10,13 @@
 </p>
 
 <div align="center">
-<blockquote align="center">
-  <em>موفقیت یعنی توانایی رفتن از شکست به شکست، بدون از دست دادن شور و اشتیاق</em> 
-  <em>وینستون چرچیل<em>
-</blockquote>
+  <blockquote align="center">
+    <h3>موفقیت یعنی توانایی رفتن از شکست به شکست، بدون از دست دادن شور و اشتیاق</h3> 
+    <br>
+    <h4>وینستون چرچیل</h4>
+  </blockquote>
 </div>
+
 
 
 
