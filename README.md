@@ -25,46 +25,40 @@
 <br>
 <br>
 <br>
-## 🔥 My Stats :
+## 🔥 My Stats
 
-<table>
-  <tr>
-    <td valign="top">
-      
-### Apps :
+<p align="center">
+
+<a href="https://github.com/Mehras-Saadi">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mehras-Saadi&show_icons=true&theme=radical&hide_title=true" />
+</a>
+
+<a href="https://github.com/Mehras-Saadi">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=radical" />
+</a>
+
+</p>
+
+---
+
+### 🧰 Apps & Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
-### Platforms :
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Mehras-Saadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
-</td>
-
-<td valign="top">
-
-### Nima.Globals' GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nima-Globals&show_icons=true&theme=dark&count_private=true&hide_title=true)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Globals&layout=compact&theme=dark&langs_count=5)
-
-</td>
-</tr>
-</table>
 
 <br>
 <br>
