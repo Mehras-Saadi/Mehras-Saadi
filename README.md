@@ -11,8 +11,8 @@
 
 <div align="center">
 <blockquote align="center">
-  <em>"Success is the ability to go from failure to failure without losing your enthusiasm."
-Winston Churchill</em> 
+  <em>"موفقیت یعنی توانایی رفتن از شکست به شکست، بدون از دست دادن شور و اشتیاق."وینستون چرچیل</em> 
+
 </blockquote>
 </div>
 
