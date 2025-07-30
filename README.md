@@ -10,15 +10,13 @@
 </p>
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Commits-Middle%20Committer-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Experience-Junior%20Dev%202yr-blueviolet?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Stars-First%20Star%202pt-yellow?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Followers-First%20Friend%201pt-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Issues-First%20Issue%201pt-red?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Repositories-First%20Repo%202pt-green?style=for-the-badge"/>
-  </p>
+  <img src="https://img.shields.io/badge/🏅_Commits-Middle_Committer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📘_Experience-Junior_Dev_2yr-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌟_Stars-First_Star_2pt-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/👥_Followers-First_Friend_1pt-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐞_Issues-First_Issue_1pt-red?style=for-the-badge"/>
 </div>
+
 
 
 ---
