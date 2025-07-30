@@ -1,36 +1,81 @@
+<!-- README.md content for Mehras Saadi - Modern & Clean UI version -->
+
 <h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran.</h1>
-<h3 align="center">DevOps-focused developer from Iran | Python scripting & WordPress projects</h3>
+<p align="center"><strong>DevOps-focused developer from Iran | Python scripting & WordPress projects</strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehras-saadi&label=Profile%20views&color=0e75b6&style=flat" alt="mehras-saadi" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehras-saadi" alt="mehras-saadi" /></a> </p>
-
--  I’m currently learning **DevOps fundamentals | Linux | Docker | Git | Deployment strategies**
-
--  I’m looking to collaborate on Small automation tools with Python or Wor **(coming soon)**
-
-- 💬 Ask me about **Python scripts, GitHub, WordPress , Linux commands**
-
-- 📫 How to reach me [@mehrassaadi.dev](https://instagram.com/mehrassaadi.dev)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mehrassaadi.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehrassaadi.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Mehras_Saadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehras_saadi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mehras-Saadi&label=Profile%20views&color=0e75b6&style=flat" alt="Mehras-Saadi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32da628c3767de23220a36e469170b9986af7330e9981c29697fa545fb179b59/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7068702c707974686f6e2c646a616e676f2c6a732c6a71756572792c6373732c68746d6c2c6d61726b646f776e2c626f6f7473747261702c636c6f7564666c6172652c6865726f6b752c6d7973716c2c6d6f6e676f64622c73716c697465"><img align="left" src="https://camo.githubusercontent.com/32da628c3767de23220a36e469170b9986af7330e9981c29697fa545fb179b59/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7068702c707974686f6e2c646a616e676f2c6a732c6a71756572792c6373732c68746d6c2c6d61726b646f776e2c626f6f7473747261702c636c6f7564666c6172652c6865726f6b752c6d7973716c2c6d6f6e676f64622c73716c697465" data-canonical-src="https://skillicons.dev/icons?i=php,python,django,js,jquery,css,html,markdown,bootstrap,cloudflare,heroku,mysql,mongodb,sqlite" style="max-width: 100%;"></a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Commits-Middle%20Committer-blue?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Experience-Junior%20Dev%202yr-blueviolet?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Stars-First%20Star%202pt-yellow?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Followers-First%20Friend%201pt-blue?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Issues-First%20Issue%201pt-red?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repositories-First%20Repo%202pt-green?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<br>
-<br>
-<br>
+---
 
-<br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehras-saadi&show_icons=true&locale=en&layout=compact" alt="mehras-saadi" /></p>
+### 📚 What I’m Working On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehras-saadi&show_icons=true&locale=en" alt="mehras-saadi" /></p>
+- 🧠 Learning **DevOps fundamentals** | `Linux` | `Docker` | `Git` | Deployment strategies
+- 🤝 Looking to collaborate on **small automation tools** with Python or Wor *(coming soon)*
+- 💬 Ask me about Python scripts, GitHub, WordPress, Linux commands
+- 📫 Reach me via: [mehrassaadi.dev](mailto:mehrassaadi.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehras-saadi&" alt="mehras-saadi" /></p>
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://instagram.com"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehras-Saadi&show_icons=true&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehras-Saadi&theme=tokyonight" height="150"/>
+</p>
