@@ -10,29 +10,16 @@
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Commits-Middle%20Committer-blue?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Experience-Junior%20Dev%202yr-blueviolet?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Stars-First%20Star%202pt-yellow?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Followers-First%20Friend%201pt-blue?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Issues-First%20Issue%201pt-red?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Repositories-First%20Repo%202pt-green?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/Commits-Middle%20Committer-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Experience-Junior%20Dev%202yr-blueviolet?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Stars-First%20Star%202pt-yellow?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Followers-First%20Friend%201pt-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Issues-First%20Issue%201pt-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Repositories-First%20Repo%202pt-green?style=for-the-badge"/>
+  </p>
 </div>
+
 
 ---
 
