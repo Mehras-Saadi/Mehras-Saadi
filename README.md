@@ -25,9 +25,50 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+## 🔥 My Stats :
 
+<table>
+  <tr>
+    <td valign="top">
+      
+### Apps :
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+### Platforms :
+
+<p align="left">
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+</td>
+
+<td valign="top">
+
+### Nima.Globals' GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nima-Globals&show_icons=true&theme=dark&count_private=true&hide_title=true)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Globals&layout=compact&theme=dark&langs_count=5)
+
+</td>
+</tr>
+</table>
+
+<br>
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehras-saadi&show_icons=true&locale=en&layout=compact" alt="mehras-saadi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehras-saadi&show_icons=true&locale=en" alt="mehras-saadi" /></p>
