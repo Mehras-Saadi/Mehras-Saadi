@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran <img src="https://emojifa.ir/assets/img/flag/Iran-Flag.png" width="24">.
+<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran :love:.
 
 
 .</h1>
