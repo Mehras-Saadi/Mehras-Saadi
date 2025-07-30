@@ -1,4 +1,4 @@
-<!-- README.md content for Mehras Saadi - Modern & Clean UI version -->
+
 
 <h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran.</h1>
 <p align="center"><strong>DevOps-focused developer from Iran | Python scripting & WordPress projects</strong></p>
@@ -41,7 +41,7 @@
 - 🧠 Learning **DevOps fundamentals** | `Linux` | `Docker` | `Git` | Deployment strategies
 - 🤝 Looking to collaborate on **small automation tools** with Python or Wor *(coming soon)*
 - 💬 Ask me about Python scripts, GitHub, WordPress, Linux commands
-- 📫 Reach me via: [mehrassaadi.dev](mailto:mehrassaadi.dev)
+- 📧 Reach me via: [mehrassaadi.dev](mailto:mehrassaadi.dev)
 
 ---
 
@@ -72,10 +72,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" height="150" />
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehras-Saadi&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" width="361" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehras-Saadi&show_icons=true&theme=tokyonight" height="145" />
 </p>
 
 <p align="center">
