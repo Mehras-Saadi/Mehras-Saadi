@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I’m <strong>Mehras Saadi</strong>, an aspiring DevOps engineer from Iran ❤️</h1>
+<h1 align="center">Hi! My name is Mehras Saadi, and I’m on my path to becoming a DevOps engineer from Iran ❤️</h1>
 
 <p align="center"><strong>DevOps-focused developer | Python scripting & WordPress development</strong></p>
 
@@ -21,7 +21,7 @@
 ### 📚 What I’m Working On
 
 - 🧠 Learning **DevOps fundamentals**: Linux, Docker, Git, Deployment strategies  
-- 🤝 Collaborating on small automation tools with Python & WordPress (coming soon)  
+- 🤝 Collaborating on small automation tools with Python  
 - 💬 Ask me about Python scripting, GitHub workflows, WordPress, Linux commands  
 - 📧 Reach me: [mehrassaadi.dev](mailto:mehrassaadi.dev)  
 
