@@ -59,7 +59,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" height="200" width="361"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehras-Saadi&layout=compact&theme=tokyonight" height="900" width="361"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Mehras-Saadi&show_icons=true&theme=tokyonight" height="145" />
 </p>
 
