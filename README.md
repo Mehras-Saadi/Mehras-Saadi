@@ -29,6 +29,7 @@
 ---
 
 ### 🌐 Connect With Me
+<marquee>
 <div align='center'>
 <p>
   <a href="https://instagram.com/mehrassaadi.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -37,7 +38,7 @@
   <a href="https://t.me/Mehras-Saadi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 </div>
-
+</marquee>
 ---
 ### 🛠 Languages & Tools
 
