@@ -34,7 +34,7 @@
     <p>
       <a href="https://instagram.com/mehrassaadi.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
       <a href="https://discord.gg/JWeKSzWn"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-      <a href="https://t.me/Mehras-Saadi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+      <a href="https://t.me/Mehras_Saadi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     </p>
   </div>
 </marquee>
